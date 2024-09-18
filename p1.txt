@@ -2,3 +2,4 @@ ait bnglr
 d section
 git merge
 learning git stash save and apply
+branch delet
