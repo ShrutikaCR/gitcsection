@@ -1,1 +1,2 @@
 learning git merge
+added new line
